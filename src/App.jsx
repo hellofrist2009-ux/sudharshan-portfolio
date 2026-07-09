@@ -68,7 +68,7 @@ function App() {
  <h2>Contact Me</h2>
  <p style={{marginTop: '20px'}} >Email:<a href="mailto:hellofrist2009@gmail.com">hellofrist2009@gmail.com</a></p>
  
- <p style={{marginTop: '20px'}} >GitHub: <a href="https://github.com/hellofrist-ux" target="_blank" rel="noopener noreferrer">github.com/hellofrist-ux</a></p>
+ <p style={{marginTop: '20px'}} >GitHub: <a href="https://github.com/hellofrist2009-ux" target="_blank" rel="noopener noreferrer">github.com/hellofrist2009-ux</a></p>
  
  <p style={{marginTop: '20px'}} >LinkedIn:<a href ="https://in.linkedin.com/in/sudharshan-g-b33a62420" target="_blank" rel="noopener noreferrer">Linkedin/sudharshan-g</a></p>
  </section>
